@@ -42,4 +42,5 @@ hello guys this is Sahil how are you all
 
 # OUTPUT IMAGE
 
-(Add the screenshot of the terminal showing the recognized text output here.)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/06a4f69f-65a4-419c-a392-28c9b33d1f07" />
+
